@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Calculadora IHC Ruim IV.jnlp">
+  <information>
+    <title>Calculadora IHC Ruim IV</title>
+    <vendor>sato1</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Calculadora_IHC_Ruim_IV.jar" size="5287" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="calculadora.CalculadoraRuim"  name="Calculadora IHC Ruim IV" />
+  <update check="always"/>
+</jnlp>
